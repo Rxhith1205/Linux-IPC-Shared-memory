@@ -48,9 +48,10 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/AasrithSairam/Linux-IPC-Shared-memory/assets/139331438/b24f256e-11b5-44cc-80f6-074d09e7bf32)
+![image](https://github.com/user-attachments/assets/5011c707-5ad4-4dc6-b625-b9c146fce85b)
+
 ##
-![image](https://github.com/AasrithSairam/Linux-IPC-Shared-memory/assets/139331438/c30274d5-c3f6-40f8-9d49-a97db11edcee)
+![image](https://github.com/user-attachments/assets/e498473c-2beb-447f-9d36-ab23a40a81c9)
 
 # RESULT:
 The program is executed successfully.
